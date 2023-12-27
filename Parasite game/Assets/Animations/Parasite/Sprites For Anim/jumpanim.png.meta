@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1cb551881e32d064b8dd56855caf3a9f
+guid: 0a1158e8fa03c754aaf90191303efecc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,64 +110,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: par2-v2-Jump_0
+      name: jumpanim_0
       rect:
         serializedVersion: 2
         x: 1
-        y: 39
+        y: 70
         width: 30
-        height: 9
+        height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f623aeb201c5cb4aa86ce3d3b1b3bb6
-      internalID: 575196179
+      spriteID: 907267649f0773c44b2d1b373135a370
+      internalID: -842529509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: par2-v2-Jump_1
+      name: jumpanim_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 70
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db10b6177b13e8448a6481865b40ab1e
+      internalID: -1021933101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpanim_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b4b8d11b59b047b74b7ad7c39bcc0
+      internalID: 1458060231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpanim_3
       rect:
         serializedVersion: 2
         x: 33
         y: 37
         width: 30
-        height: 12
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c30d05735a138f4e9dd2e78cd299907
-      internalID: -814241783
+      spriteID: 172ace3cfe6896c4a85a9319e75ed409
+      internalID: -1777467426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: par2-v2-Jump_2
+      name: jumpanim_4
       rect:
         serializedVersion: 2
         x: 1
-        y: 4
-        width: 31
-        height: 14
+        y: 3
+        width: 30
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a54d7de03e49bdd48b5d858ab932483d
-      internalID: -665841958
+      spriteID: 06c3d60bca8c2a949b4c59f76ac55eb1
+      internalID: 676928775
       vertices: []
       indices: 
       edges: []
@@ -183,9 +225,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      par2-v2-Jump_0: 575196179
-      par2-v2-Jump_1: -814241783
-      par2-v2-Jump_2: -665841958
+      jumpanim_0: -842529509
+      jumpanim_1: -1021933101
+      jumpanim_2: 1458060231
+      jumpanim_3: -1777467426
+      jumpanim_4: 676928775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
